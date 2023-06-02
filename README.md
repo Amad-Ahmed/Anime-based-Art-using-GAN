@@ -12,7 +12,9 @@ This preprocessing approach of combining k-means clustering with the Color Model
 
 # Evaluation metrics
 To evaluate the success of the generated Anime Faces and the overall performance of the model, we employ both qualitative and quantitative evaluation metrics. The metrics used include real and fake scores, as well as the losses of the generator and discriminator networks.
+
 ![evaluation metric 1](https://github.com/Amad-Ahmed/Anime-based-Art-using-GAN/assets/80278397/5095d054-8c7f-4d97-93e0-bb5bedb63c42)
+
 ![evaluation metric 2](https://github.com/Amad-Ahmed/Anime-based-Art-using-GAN/assets/80278397/e1b6917f-9c6b-40f8-9849-5792c1795b86)
 
 # Output
