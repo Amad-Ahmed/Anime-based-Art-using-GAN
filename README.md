@@ -22,4 +22,4 @@ To evaluate the success of the generated Anime Faces and the overall performance
 ![pic1](https://github.com/Amad-Ahmed/Anime-based-Art-using-GAN/assets/80278397/29180b85-cff4-464d-ae0c-99172fecec99)
 
 
-![pic2](https://github.com/Amad-Ahmed/Anime-based-Art-using-GAN/assets/80278397/81b7cdcb-35a3-48d1-989b-3fc50ba3e3f4)
+![pic2](https://github.com/Amad-Ahmed/Anime-based-Art-using-GAN/assets/80278397/81b7cdcb-35a3-48d1-989b-3fc50ba3e3f4) 
